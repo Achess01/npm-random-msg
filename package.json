@@ -14,7 +14,15 @@
   "author": "Alexander Tzoc <jealtzo26@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achess01/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Achess01/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/Achess01/npm-random-msg#readme"
 }
